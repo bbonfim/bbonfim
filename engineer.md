@@ -12,10 +12,17 @@ As a Software Engineer at Benu you will be dealing with every single aspect of a
  - notion of containers and orchestration (Docker, K8s)
  - you don't hate Linux 
  - Feel confortable with Javascript
- - You have played around with [GKE](https://cloud.google.com/kubernetes-engine)
+ - You have played around with GKE (Google K8s Engine)
 ```
 
 #### Mandatory
 ```
+ - You know how to manage your own time
  - You have never stream sniped anyone
 ```
+
+#### Set up and Location
+You will be working remotely and must be legally allowed to work in Brazil. We will provide you with high-end gears that make you happy at every boot! We have flexible hours and we are not following to the Austria timezone (you might get an early meeting here and there though).
+
+#### Payment
+We use the PJ (Pessoa Juridica) contract style in Brazil and payment is dependent on experience. Ranging from 12k to 18k Reais monthly.
