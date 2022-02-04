@@ -4,7 +4,7 @@
 
 ### Your Role
 
-As a Software Engineer at Benu you will be dealing with every single aspect of a distributed web application stack. From zero down-time deployments to playing around with the newest bud on the [Jam Stack](https://jamstack.org/), to implementing [Apex classes on Salesforce](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm). Avid follower of the [Technoly Radar](https://www.thoughtworks.com/radar), you will keep a close eye on the things that will bring value long term even though they might cause a decent refactor.
+As a Software Engineer at Benu you will be dealing with every single aspect of a distributed web application stack. From zero down-time deployments to playing around with the newest bud on the [Jam Stack](https://jamstack.org/), to implementing [Apex classes on Salesforce](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm). Avid follower of the [Technology Radar](https://www.thoughtworks.com/radar), you will keep a close eye on the things that will bring value long term even though they might cause a decent refactor.
 
 #### Skills
 ```
