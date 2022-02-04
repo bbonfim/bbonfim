@@ -8,11 +8,11 @@ As a Software Engineer at Benu you will be dealing with every single aspect of a
 
 #### Nice to Have
 ```
- Understanding of good practices on microservice architectures
- notion of containers and orchestration (Docker, K8s)
- you don't hate Linux 
- Feel confortable with Javascript
- You have played around with [GKE](https://cloud.google.com/kubernetes-engine)
+ - Understanding of good practices on microservice architectures
+ - notion of containers and orchestration (Docker, K8s)
+ - you don't hate Linux 
+ - Feel confortable with Javascript
+ - You have played around with [GKE](https://cloud.google.com/kubernetes-engine)
 ```
 
 #### Mandatory
