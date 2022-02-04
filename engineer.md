@@ -6,20 +6,29 @@
 
 As a Software Engineer at Benu you will be dealing with every single aspect of a distributed web application stack. From zero down-time deployments to playing around with the newest bud on the [Jam Stack](https://jamstack.org/), to implementing [Apex classes on Salesforce](https://developer.salesforce.com/docs/atlas.en-us.apexcode.meta/apexcode/apex_intro_what_is_apex.htm). Avid follower of the [Technoly Radar](https://www.thoughtworks.com/radar), you will keep a close eye on the things that will bring value long term even though they might cause a decent refactor.
 
-#### Nice to Have
+#### Skills
 ```
+ - You know how to manage your own time 
  - Understanding of good practices on microservice architectures
  - notion of containers and orchestration (Docker, K8s)
  - Reading docs and doing it the right way is how you handle new stuff
  - you don't hate Linux 
  - Feel confortable with Javascript
- - You have played around with GKE (Google K8s Engine)
+ - You have never stream sniped anyone
 ```
 
-#### Mandatory
-```
- - You know how to manage your own time
- - You have never stream sniped anyone
+#### Nice to Have
+It would be cool if you have any experience with the following (not mandatory though):
+``` 
+ - Spring Boot
+ - Rest and GraphQl API's
+ - CDN servers (Cloudflare)
+ - Kubernetes
+ - NodeJs
+ - React
+ - NextJs
+ - Salesforce
+ - NoSQL databases
 ```
 
 #### Set up and Location
