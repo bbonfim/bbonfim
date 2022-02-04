@@ -18,7 +18,7 @@ As a Software Engineer at Benu you will be dealing with every single aspect of a
 ```
 
 #### Nice to Have
-It would be cool if you have any experience with the following (not mandatory though):
+It would be cool if you have any experience with any the following (not mandatory though):
 ``` 
  - Spring Boot
  - Rest and GraphQl API's
