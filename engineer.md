@@ -35,6 +35,6 @@ It would be cool if you have any experience with any the following (not mandator
 You will be working remotely and must be legally allowed to work in Brazil. We will provide you with high-end gears that make you happy at every boot! We have flexible hours and we are not following to the Austrian timezone (you might get an early meeting here and there though).
 
 #### Payment
-PJ (Pessoa Juridica) contract style and payment is dependent on experience. Ranging from 12k to 18k Reais monthly. 13 payments yearly and 30 days off per year.
+PJ (Pessoa Juridica) contract style and payment is dependent on experience. Ranging from 18k to 22k Reais monthly. 13 payments yearly and 30 days off per year.
 
 Interested? Shoot a message to **bruno@benu.at** and we will get right back to you!
