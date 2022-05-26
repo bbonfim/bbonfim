@@ -4,6 +4,7 @@ Thank you for your time and interest in participating in this process. At Benu, 
 
 ## Goal
 We have different funnels at Benu that allows us to get information from our customers. Sometimes, we need to experiment with a specific scenario to understand how the customers react to it, before building that into our website directly. We use [Typeform](https://www.typeform.com/) for such cases. It allows us to build really good looking forms and have it up and running in no time. The goal for this challenge is to build a form in Typeform and have it integrated into a back-end service that will provide response stats via rest API. 
+
 ### Acceptance Criteria:
  - The form must have at least 4 questions
  - All answers to the form are sent to a back-end service via [webhook integration](https://developer.typeform.com/webhooks/)
@@ -22,13 +23,14 @@ It'd be amazing to have the following:
 
 
 ## Recommendations
-A lot of our back-end services are built with [Spring Boot](https://spring.io/projects/spring-boot), so we would recommend building the back-end service with this framework so that you get a feeling of what you we have here.
+ - A lot of our back-end services are built with [Spring Boot](https://spring.io/projects/spring-boot), so we would recommend building the back-end service with this framework so that you get a feeling of what you we have here.
 We also use noSql databases like [MongoDB](https://www.mongodb.com/) to store data. Spring Boot has really handy libraries to handle all the complicated mapping and querying with mongoDB.
-Another very helpful tool in this case is [ngrok](https://ngrok.com/). To avoid the need to deploy your service somewhere with a fixed IP address, you can use ngrok to generate a unique url to route traffic directly to your local network. We use this a lot when testing new webhooks.
-When building the form, try to use different answer types, instead of open text fields. Typeform have a lot of cool features to make a form more exciting. Also, use our typeform credentials bellow to create the form. This way its easier for us to validate what you built.
+ - Another very helpful tool in this case is [ngrok](https://ngrok.com/). To avoid the need to deploy your service somewhere with a fixed IP address, you can use ngrok to generate a unique url to route traffic directly to your local network. We use this a lot when testing new webhooks.
+ - When building the form, try to use different answer types, instead of open text fields. Typeform have a lot of cool features to make a form more exciting. Also, use our typeform credentials bellow to create the form. This way its easier for us to validate what you built.
 
 ### Typeform Credentials
 email: dev@benu.at
+
 pass: B3nU2022!!!
 
 ### Have fun and thanks again for taking the time to do this!
