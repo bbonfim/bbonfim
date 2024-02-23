@@ -59,6 +59,7 @@ We would love if you build this app using Spring Boot 3 and their caching librar
 - You can use the [Spring Initializr](https://start.spring.io/) to generate the barebones for you (with all the dependencies).  
 - Here is a decent article on the basics of what we need: [Spring Boot Ehcache Example](https://www.baeldung.com/spring-boot-ehcache)
 - You can use the Webclient to make the http requests to OMDB: [Spring 5 WebClient](https://www.baeldung.com/spring-5-webclient)
+- Here is another nice article about [Building a RESTful Web Service](https://spring.io/guides/gs/rest-service) with Spring Boot.
 
 
 ## Acceptance Criteria:
